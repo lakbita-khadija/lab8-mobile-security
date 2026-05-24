@@ -1,4 +1,4 @@
-# LAB 8 — Analyse de posture et exposition d'applications mobiles
+<img width="1628" height="605" alt="Capture d&#39;écran 2026-05-24 134438" src="https://github.com/user-attachments/assets/89dcc942-0039-45c8-939a-881c14553e4f" /># LAB 8 — Analyse de posture et exposition d'applications mobiles
 **Analyste :** LAKBITA KHADIJA  
 **Date :** 2026-05-24  
 **Cours :** Sécurité des applications mobiles — MLIAEdu  
@@ -69,6 +69,18 @@ lab8/
 | M9 | Insecure Data Storage | 🔴 Critique |
 
 ---
+<img width="947" height="690" alt="Capture d&#39;écran 2026-05-24 132530" src="https://github.com/user-attachments/assets/407930d8-2247-42f6-acb6-1eab4bef6d5e" />
+
+<img width="1310" height="577" alt="Capture d&#39;écran 2026-05-24 132942" src="https://github.com/user-attachments/assets/daba49ce-2aa7-4b9c-9c75-36798567a710" />
+
+<img width="1919" height="679" alt="Capture d&#39;écran 2026-05-24 132915" src="https://github.com/user-attachments/assets/5dafd1cc-dad3-4a2c-bd86-0fba8ea98346" />
+<img width="1916" height="933" alt="Capture d&#39;écran 2026-05-24 132842" src="https://github.com/user-attachments/assets/00606354-885f-4f20-818b-828796b6365b" />
+
+<img width="853" height="820" alt="Capture d&#39;écran 2026-05-24 134324" src="https://github.com/user-attachments/assets/63219bce-3cf2-4964-94a2-852c30ed8a44" />
+<img width="1916" height="921" alt="Capture d&#39;écran 2026-05-24 134629" src="https://github.com/user-attachments/assets/0091f466-78fe-4d25-992e-088cb9607dda" />
+<img width="1628" height="605" alt="Capture d&#39;écran 2026-05-24 134438" src="https://github.com/user-attachments/assets/57f9a5d7-65b8-4ce2-a711-288c4cf0712e" />
+
+<img width="1919" height="577" alt="Capture d&#39;écran 2026-05-24 134542" src="https://github.com/user-attachments/assets/d175fe5e-5d28-4a7b-a705-96c29f9de913" />
 
 ## Recommandations prioritaires
 1. Forcer HTTPS + Certificate Pinning

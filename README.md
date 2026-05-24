@@ -1,4 +1,4 @@
-<img width="1628" height="605" alt="Capture d&#39;écran 2026-05-24 134438" src="https://github.com/user-attachments/assets/89dcc942-0039-45c8-939a-881c14553e4f" /># LAB 8 — Analyse de posture et exposition d'applications mobiles
+LAB 8 — Analyse de posture et exposition d'applications mobiles
 **Analyste :** LAKBITA KHADIJA  
 **Date :** 2026-05-24  
 **Cours :** Sécurité des applications mobiles — MLIAEdu  

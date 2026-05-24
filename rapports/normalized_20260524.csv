@@ -1,0 +1,18 @@
+url_ou_donnee,type,source,protocole,risque
+http://goo.gl/8Rd3yj,endpoint,BeVigil+Yaazhini,HTTP,CRITIQUE
+http://goo.gl/naFqQk,endpoint,Yaazhini,HTTP,CRITIQUE
+http://www.google-analytics.com,tracker,Yaazhini,HTTP,MOYEN
+http://plus.google.com/,endpoint,Yaazhini,HTTP,CRITIQUE
+http://www.google.com,endpoint,Yaazhini,HTTP,MOYEN
+https://www.googleapis.com/auth/drive,endpoint,Yaazhini,HTTPS,MOYEN
+https://accounts.google.com,auth,Yaazhini,HTTPS,MOYEN
+https://www.paypal.com,paiement,Yaazhini,HTTPS,MOYEN
+MyBroadCastReceiver,receiver_exported,Yaazhini,,CRITIQUE
+SEND_SMS,permission,Yaazhini,,CRITIQUE
+READ_CALL_LOG,permission,Yaazhini,,CRITIQUE
+READ_PHONE_STATE,permission,Yaazhini,,CRITIQUE
+Insecure Communication x36,vulnerabilite,Yaazhini,,CRITIQUE
+Android Debuggable Enabled,vulnerabilite,Yaazhini,,MOYEN
+Weak Hash MD5/SHA1,vulnerabilite,Yaazhini,,MOYEN
+Shared Preferences sensibles,vulnerabilite,BeVigil,,CRITIQUE
+Sensitive Info in Logs,vulnerabilite,BeVigil,,MOYEN
